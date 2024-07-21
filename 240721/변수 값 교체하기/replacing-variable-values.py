@@ -1,1 +1,1 @@
-print('A is 5\nA is 3')
+print('6')
