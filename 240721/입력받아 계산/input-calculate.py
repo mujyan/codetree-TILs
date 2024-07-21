@@ -1,1 +1,1 @@
-print(20)
+print(int(input())+2)
